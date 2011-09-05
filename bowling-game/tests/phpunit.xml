@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+        colors="true">
+    <testsuites>
+        <testsuite name="IBCC TestSuite">
+            <directory sufix="Test.php">/</directory>
+        </testsuite>
+    </testsuites>
+
+</phpunit>
